@@ -1,1 +1,2 @@
-<h1>SOLO LEVEL MC</h1>
+<img src="../images/Solo Leveling Banner.png">
+<h1 align="center">SOLO LEVEL MC</h1>
