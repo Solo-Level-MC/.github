@@ -1,1 +1,2 @@
-<img src="images/Solo Leveling Banner.png">
+<img src="images/SoloLevelingBanner.png">
+<img src="images/SoloLevelingBanner2.png">
